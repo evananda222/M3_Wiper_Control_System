@@ -1,4 +1,4 @@
-# INTRODUCTION
+# Abstract
 -A windshield wiper, also known as a wiper blade, is a device used to remove rain, snow, ice, washer fluid, and water from a vehicle's front glass.
 - Such wipers are mounted on all large motor vehicles, including cars, trucks, railroad locomotives, and certain aeroplanes.
 - After reading various research articles, I realised that safety requirements under adverse weather conditions are important even at low speeds for motor vehicles, therefore I began developing a wiper control system using arm-based microcontrollers.
