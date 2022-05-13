@@ -6,20 +6,20 @@
 - Finally this project application helps users in day to day life and prevents accidents and allows safe and healthy journey.
 
 ## RESEARCH
-This application is researched from various sources (like you tube , google and research papers ) and then I have modified into successful working model application of wiper control system using arm based microcontrollers. 
+This application was analyzed from different sources (such as YouTube, Google, and research papers), and then adapted into a successful functioning model application of a wiper control system employing arm-based microcontrollers. 
 
 ## END GOAL
-- Clear vision in adverse weather conditions .
-- Avoid accidents and ensure safety with latest mechanism.
+- Clear viewing in inclement weather. 
+- Avoid accidents and promote safety with the most recent mechanism.
 
 ### Who
--   Everyone who wants safety and clear vision of road in driving using motor vehicles.
+-  Everyone who wishes to drive safely and with a clear picture of the road.
 ### What
--   Wiper Control System for motor vehicles.
+-   Wiper Control System for Automotives.
 ### Why
 -   Curious about carrier in embedded system . 
 ### When 
--   When you understand the importance of safety management and start to be accountable for your health during driving motor vehicles in unfavourable weather conditions.
+-   When you recognise the significance of safety management and begin to hold yourself accountable for your health when driving in adverse weather conditions.
 ### Where
 -   This can be  used by the user in day to day life where they can track their safety and  generate better results in life during travelling via motor vehicles  .
 ### How
